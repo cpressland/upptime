@@ -4,17 +4,19 @@
     "url": "https://jellyfin.cpressland.io/web/",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.cpressland.io.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 539,
-    "timeDay": 477,
-    "timeWeek": 539,
-    "timeMonth": 539,
-    "timeYear": 539,
-    "dailyMinutesDown": {}
+    "time": 528,
+    "timeDay": 467,
+    "timeWeek": 528,
+    "timeMonth": 528,
+    "timeYear": 528,
+    "dailyMinutesDown": {
+      "2025-02-11": 0
+    }
   }
 ]
