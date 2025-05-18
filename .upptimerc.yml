@@ -4,6 +4,8 @@ repo: upptime
 sites:
   - name: Jellyfin
     url: https://jellyfin.cpressland.io/web/
+  - name: Binky Casa
+    url: https://binky.casa/
 
 assignees:
   - cpressland
