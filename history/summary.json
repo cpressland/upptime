@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.cpressland.io.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "98.34%",
-    "uptimeDay": "100.00%",
+    "uptime": "98.33%",
+    "uptimeDay": "99.44%",
     "uptimeWeek": "89.09%",
-    "uptimeMonth": "96.57%",
-    "uptimeYear": "98.34%",
+    "uptimeMonth": "96.55%",
+    "uptimeYear": "98.33%",
     "time": 738,
     "timeDay": 673,
     "timeWeek": 620,
     "timeMonth": 657,
     "timeYear": 738,
     "dailyMinutesDown": {
-      "2025-05-26": 0,
+      "2025-05-26": 8,
       "2025-05-22": 749,
       "2025-05-21": 35,
       "2025-05-19": 697,
@@ -32,7 +32,7 @@
     "url": "https://binky.casa/",
     "icon": "https://icons.duckduckgo.com/ip3/binky.casa.ico",
     "slug": "binky-casa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -43,6 +43,8 @@
     "timeWeek": 753,
     "timeMonth": 821,
     "timeYear": 821,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-26": 0
+    }
   }
 ]
