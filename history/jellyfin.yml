@@ -1,7 +1,7 @@
 url: https://jellyfin.cpressland.io/web/
-status: up
-code: 200
-responseTime: 778
-lastUpdated: 2025-06-26T23:05:22.892Z
+status: down
+code: 503
+responseTime: 431
+lastUpdated: 2025-06-27T08:18:29.642Z
 startTime: 2025-02-05T14:04:15.876Z
 generator: Upptime <https://github.com/upptime/upptime>
