@@ -4,7 +4,7 @@
     "url": "https://jellyfin.cpressland.io/web/",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.cpressland.io.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
@@ -16,6 +16,7 @@
     "timeMonth": 626,
     "timeYear": 689,
     "dailyMinutesDown": {
+      "2025-09-11": 0,
       "2025-09-05": 52,
       "2025-07-05": 39,
       "2025-06-27": 26,
