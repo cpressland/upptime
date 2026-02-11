@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.cpressland.io.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
-    "time": 632,
-    "timeDay": 410,
-    "timeWeek": 470,
-    "timeMonth": 474,
+    "time": 631,
+    "timeDay": 307,
+    "timeWeek": 459,
+    "timeMonth": 473,
     "timeYear": 633,
     "dailyMinutesDown": {
       "2025-10-26": 67,
@@ -31,8 +31,7 @@
       "2025-05-12": 24,
       "2025-03-23": 31,
       "2025-03-10": 302,
-      "2025-02-14": 706,
-      "2025-02-11": 90
+      "2025-02-14": 706
     }
   },
   {
@@ -46,11 +45,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 396,
-    "timeDay": 491,
-    "timeWeek": 469,
-    "timeMonth": 387,
-    "timeYear": 396,
+    "time": 395,
+    "timeDay": 291,
+    "timeWeek": 476,
+    "timeMonth": 385,
+    "timeYear": 395,
     "dailyMinutesDown": {
       "2025-05-28": 182,
       "2025-05-26": 71
